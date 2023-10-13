@@ -1,2 +1,2 @@
-# Quant-Trading
-Quantitative trading using ML and Data engineering
+# Algorithm-Trading
+Algorithm trading using ML and Data engineering
