@@ -1,2 +1,2 @@
 # Algorithm-Trading
-Algorithm trading using ML and Data engineering
+Algorithm trading using Jupyter and Puython
